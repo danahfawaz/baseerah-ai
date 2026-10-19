@@ -10,7 +10,7 @@ Baseerah answers Islamic questions, mainly questions women ask, by showing the o
 Search is fully local (SQLite FTS5 plus dense vectors); nothing is looked up on the internet. A language model may add a
 short explanation, but it never writes the texts.
 
-> **Disclaimer.** Baseerah is AI-assisted and is **not** a qualified religious scholar (ليست من مختص شرعي).
+> **Disclaimer.** Baseerah is AI-assisted and is **not** a qualified religious scholar (ليست  مختص شرعي).
 > - **Texts:** every hadith, ayah and tafsir shown is copied verbatim from the database by ID.
 > - **Personal cases:** questions about a personal case are referred to scholars.
 
