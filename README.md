@@ -1,4 +1,4 @@
-# Baseerah (بصيرة)
+# Baseerah (بصيرة) Challenge: AI Challenge: Serving Islamic Content (تحدي الذكاء الاصطناعي في خدمة المحتوى الإسلامي), October 2026.
 
 **إجابةٌ تستند إلى أصل. محتوى شرعي قابل للتتبع إلى مصدره.**
 
